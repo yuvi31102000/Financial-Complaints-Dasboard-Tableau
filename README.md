@@ -15,6 +15,12 @@ The goal is to help stakeholders identify trends, root causes, and opportunities
 
 Tableau Dashboard Link: https://public.tableau.com/views/FinancialCompliantsDashboard_17590823655700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+<img width="1874" height="1057" alt="Finance Dashoard" src="https://github.com/user-attachments/assets/55dba521-c549-4b64-aae0-8c8b3a6a7153" />
+
+<img width="1865" height="1045" alt="Finance Dasboard Img 2" src="https://github.com/user-attachments/assets/0dc5f18c-cd27-4af4-98ba-136060de8c26" />
+
+
+
 ## 2. Executive Summary
 
 Between 2011 and 2020, a total of 75,513 financial complaints were reported.
